@@ -1,0 +1,12 @@
+---
+title: "Analysis of DHS Data"
+author: "Mamadou Saidou A"
+date: "2024-08-19"
+categories: [code, analysis, r]
+image: "image.jpg"
+---
+
+
+This was a project using DHS data. You can find the project [here](https://demolandscapes.info/){target="_blank"}
+
+
